@@ -1,5 +1,17 @@
 # Assignment 2: 3D Graphics and Interaction with WebGL
 
+  - [Objective](#objective)
+  - [Approach & Steps](#approach--steps)
+    - [Initialization & Basics](#1-initialization--basics)
+    - [Plane Construction](#2-plane-construction)
+    - [3D Letter Construction](#3-3d-letter-construction)
+    - [... (other sections as necessary)](#other-sections-as-necessary)
+  - [Challenges & Learnings](#challenges--learnings)
+  - [References & Resources](#references--resources)
+  - [Feedback & Future Work](#feedback--future-work)
+  - [Screenshots, Screencast & GIFs](#screenshots-screencast--gifs)
+  - [Contribution & Collaboration](#contribution--collaboration)
+
 ## Objective
 Create an interactive 3D scene with WebGL that showcases a personalized letter standing on an XZ plane, combined with lighting techniques from a designated light source.
 
